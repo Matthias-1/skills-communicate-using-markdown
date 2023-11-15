@@ -6,3 +6,5 @@
 ###### Header 6
 
 Added 6 different headers to the index file.
+
+![Image of Koala](https://purepng.com/public/uploads/large/koala-bear-lmr.png)
