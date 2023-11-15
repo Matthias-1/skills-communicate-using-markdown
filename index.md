@@ -14,3 +14,8 @@ mylist = list(range(1, 10))
 for i in mylist:
   print(i)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Complete skills-communicate-using-markdown
